@@ -55,6 +55,7 @@ outputs/
 *.pt
 *.pth
 *.pth.tar
+*.keras
 
 # Data / large folders to ignore (ignore directories and all contents)
 test/
